@@ -1,0 +1,16 @@
+{
+  "Flex": 131,
+  "TextBox": 140,
+  "Div": 22,
+  "Button": 8,
+  "Image": 32,
+  "UnorderedList": 3,
+  "Step": 1,
+  "Radio": 1,
+  "Overlay": 1,
+  "Testimonial": 1,
+  "Carousel": 3,
+  "Accordion": 1,
+  "Input": 1,
+  "VerticalMenu": 1
+}
